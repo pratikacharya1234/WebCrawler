@@ -1,4 +1,6 @@
 🔍 Web Crawler
+
+
 A simple web crawler built using React.js, TailwindCSS, and Selenium. Users can enter a website URL, click Crawl, and get a summary of the website, including the title, description, and technologies used. The app also stores crawl history using localStorage.
 
 🚀 Features
