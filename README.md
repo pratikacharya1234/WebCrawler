@@ -34,4 +34,5 @@ A simple web crawler built using **React.js, TailwindCSS, and Selenium**. Users 
 ### 1️⃣ Clone the repository
 ```sh
 git clone https://github.com/your-username/web-crawler.git
-cd web-crawler
+cd media
+
