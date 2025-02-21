@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Additional styles */
+.relative.w-full {
+    display: flex;
+    align-items: center;
+}
+
+.relative.w-full input {
+    flex-grow: 1;
+}
+
+.relative.w-full button {
+    margin-left: 10px;
+}
+
